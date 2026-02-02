@@ -1131,7 +1131,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/mittal-parth",
+    link: "www.linkedin.com/in/aniket-mulgi-155175387",
   },
   {
     id: "social-media-2",
@@ -1158,7 +1158,7 @@ export const socialMedia = [
 // Your professional summary
 export const aboutMe = {
   name: "Aniket Mulgi",
-  githubUsername: "mittal-parth",
+  githubUsername: "AniketMulgi",
   tagLine:
     "MTS @ Oracle | 12x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
   intro:
